@@ -14,4 +14,5 @@ springboot 附加功能 防止重复提交表单
   需要 在自定义类上 加上序列化接口 Serializable
   并在application.properties 文件中加入  
 	#相信所有类型 不然反序列化 失败
-	spring.activemq.packages.trust-all=true
+	
+spring.activemq.packages.trust-all=true
