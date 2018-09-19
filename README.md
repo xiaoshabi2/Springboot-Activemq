@@ -1,4 +1,4 @@
-# Springboot Activemq
+# Springboot Activemq 和 RabbitMq
 
 springboot 附加功能 防止重复提交表单
 
@@ -16,3 +16,7 @@ springboot 附加功能 防止重复提交表单
 	#相信所有类型 不然反序列化 失败
 	
 spring.activemq.packages.trust-all=true
+
+
+4.RabbitMq安装教程 ：https://blog.csdn.net/hzw19920329/article/details/53156015
+整合教程 ： https://www.jianshu.com/p/357391bc6fb4?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq
